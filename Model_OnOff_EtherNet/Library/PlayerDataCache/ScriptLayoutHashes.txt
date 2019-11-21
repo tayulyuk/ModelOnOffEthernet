@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/com/Desktop/Model_OnOff_EtherNet/빠꼼이.apk
+C:/Users/com/Documents/GitHub/ModelOnOffEthernet/Model_OnOff_EtherNet/빠꼼이.apk
 SceneListBegin?
 Assets/Scenes/SFT_OnOff.unity
 SceneListEnd?

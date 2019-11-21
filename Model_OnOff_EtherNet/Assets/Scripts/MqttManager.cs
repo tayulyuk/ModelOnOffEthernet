@@ -9,10 +9,10 @@ public class MqttManager : MonoBehaviour
 {
     private string clientId ="";
 
-    public  string outTopic = "Moter4_01087700060/eachControl";
-    public  string inTopic = "Moter4_01087700060/moterOutput";
-    //public string outTopic = "t/eachControl";
-    //public string inTopic = "t/moterOutput";
+    //public  string outTopic = "Moter4_01087700060/eachControl";
+    //public  string inTopic = "Moter4_01087700060/moterOutput";
+    public string outTopic = "t/eachControl";
+    public string inTopic = "t/moterOutput";
 
     private MqttClient client;
 

@@ -439,8 +439,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c838ade6b5f64f45bb4226ef54b8578, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  outTopic: Moter4_01087700060/eachControl
-  inTopic: Moter4_01087700060/moterOutput
+  outTopic: t/eachControl
+  inTopic: t/moterOutput
   recieveMessage: 
   Button_1_State: 0
   Button_2_State: 0
